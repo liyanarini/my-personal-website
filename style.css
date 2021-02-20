@@ -92,13 +92,13 @@ h4{
 }
 .works-img img{
     width: 30%;
-    height: 150px;
+    height: 250px;
     float: left;
     margin-left: 20px;
     
 }
 .latest-work{
-    height: 300px;
+    height: 350px;
     background-image: url(img/latest-work-bg.png);
     background-position: right;
     background-repeat: no-repeat;
@@ -150,5 +150,5 @@ h5{
 footer{
     font-size: 10px;
     color: gray;
-    margin-top:100px ;
+    margin-top:250px ;
 }
